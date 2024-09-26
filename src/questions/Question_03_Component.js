@@ -12,6 +12,7 @@ export default function Question_03_Component(props) {
       <h3>Question_03_Component</h3>
       <button>{props.button}</button>
       <span>{props.message}</span>
+      
     </div>
   );
 }
